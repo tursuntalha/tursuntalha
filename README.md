@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Tursun</h1>
-<h3 align="center">Computer Engineering Student | AI Developer | Medical AI Enthusiast</h3>
+<h3 align="center">Computer Engineering | AI Developer |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tursuntalha&label=Profile%20views&color=0e75b6&style=flat" alt="tursuntalha" />
@@ -9,11 +9,12 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm a 4th-year Computer Engineering student at **Kocaeli University**  
-- 🔬 I develop AI models for **cancer diagnosis**, especially in **thyroid and leukemia detection**
-- 🧪 Currently working on deep learning models for **microscopic image classification** (TÜBİTAK 2209-A project)
-- 🛠️ I use **PyTorch**, **TensorFlow**, **OpenCV**, and medical datasets to build powerful models
-- 🎯 My goal is to contribute to **open-source health tech** with explainable and generalizable models
+- 👨‍💻 I’m a **Software Engineer** with a strong focus on **Artificial Intelligence** and **Computer Vision**
+- 🤖 Passionate about developing real-world solutions in **Deep Learning** and **Machine Learning**
+- 🛠️ Technologies I frequently use:
+  - Frameworks: **PyTorch**, **TensorFlow**, **Scikit-learn**
+  - Tools: **OpenCV**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**
+- 📊 I build explainable and generalizable models for research-based and production-ready healthcare projects
 
 ---
 
