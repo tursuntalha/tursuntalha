@@ -14,7 +14,7 @@
 - 🛠️ Technologies I frequently use:
   - Frameworks: **PyTorch**, **TensorFlow**, **Scikit-learn**
   - Tools: **OpenCV**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**
-- 📊 I build explainable and generalizable models for research-based and production-ready healthcare projects
+
 
 ---
 
