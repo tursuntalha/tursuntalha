@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 I’m a **Software Engineer** with a strong focus on **Artificial Intelligence** and **Computer Vision**
+- 👨‍💻 I’m a **Software Engineer** with a strong focus on **Artificial Intelligence** 
 - 🤖 Passionate about developing real-world solutions in **Deep Learning** and **Machine Learning**
 - 🛠️ Technologies I frequently use:
   - Frameworks: **PyTorch**, **TensorFlow**, **Scikit-learn**
