@@ -56,12 +56,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tursuntalha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Talha's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tursuntalha&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=tursuntalha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Talha's GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tursuntalha&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=tursuntalha&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=tursuntalha&theme=darkhub&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
