@@ -4,38 +4,91 @@
 
 <img src="https://komarev.com/ghpvc/?username=tursuntalha&label=Profile+views&color=2196F3&style=flat-square" alt="profile views" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+%2F+Data+Scientist;Kaggle+%26+Datathon+Competitor;Building+leakage-free%2C+production-grade+ML" alt="Typing SVG" />
-</a>
-
-<br/>
+### Data Scientist
 
 <img src="https://img.shields.io/badge/📍-Istanbul,_Turkey-2196F3?style=flat-square" />
-<img src="https://img.shields.io/badge/💼-Software_Engineer_|_AI_Engineer-2196F3?style=flat-square" />
 
 </div>
 
 <br/>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
 
 ### 👋 About
 
-- 🔭 Building **leakage-free, reproducible ML pipelines** — GBDT ensembles, hurdle/zero-inflated models, transformer-based tabular models, and semantic search (bi-encoder / cross-encoder re-ranking).
-- 🧪 Actively competing in **Kaggle competitions & datathons**, with a focus on rigorous validation over leaderboard chasing.
-- 🔬 Research background in **CV × ML fusion** (YOLO + ViT + XGBoost), backed by a TÜBİTAK 2209-A grant.
-- 🌱 Currently exploring fine-tuned LLM re-rankers for search relevance.
+- 🧹 **Uçtan uca veri bilimi** — veri temizleme, keşifçi veri analizi (EDA), özellik mühendisliği, model geliştirme/doğrulama ve üretime alma sürecinin tamamıyla ilgileniyorum.
+- 🖼️ **Görüntü işleme** — klasik bilgisayarlı görü tekniklerinden derin öğrenme tabanlı nesne tespiti, segmentasyon ve sınıflandırma modellerine kadar görsel veriyle çalışıyorum.
+- 🧠 **Büyük dil modelleri (LLM)** — model ince ayarı (fine-tuning), prompt mühendisliği, retrieval-augmented generation (RAG) ve semantik arama sistemleri üzerine çalışıyorum.
+- ✨ **Üretken yapay zeka** — metin, görüntü ve çok-modlu üretken modelleri araştırıyor, ajan tabanlı (agentic) ve araç kullanan (tool-use) sistemler geliştiriyorum.
+- 📈 **Sağlam doğrulama** — leaderboard kovalamaktan çok, veri sızıntısız (leakage-free) ve tekrarlanabilir deney kurgusu önceliğim.
+- 🏁 Kaggle yarışmalarında ve datathonlarda aktif olarak yer alıyorum.
+
+---
+
+### 🛠️ Tech Stack
+
+**Diller**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Veri İşleme & Analiz**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Görselleştirme**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Klasik Makine Öğrenmesi**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+
+**Derin Öğrenme**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Bilgisayarlı Görü**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ultralytics YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+
+**NLP & LLM**
+
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**MLOps & Dağıtım**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+**Veritabanı & Big Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Bulut**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**Araçlar**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 ---
 
@@ -47,7 +100,7 @@
 | ⚡ [Grid-Up Datathon](https://github.com/tursuntalha/Grid-Up-Datathon-Solution) | 122-day electricity demand forecast for 5,344 transformers; hurdle model + transformer×origin swap | `Public LB 1.02364 (RMSLE)` |
 | 📱 [Smartphone Addiction Prediction](https://github.com/tursuntalha/S6E8-Smartphone-Addiction-Prediction) | GBDT ensemble + missingness-aware Lookup-Transformer NN, community OOF stacking | `Public AUC 0.97035` |
 | 🔬 [Parasite Egg Classification](https://github.com/tursuntalha/parasite-egg-classification-chula-parasite-egg-11) | TÜBİTAK 2209-A funded research: YOLO11m–ViT–FPN + XGBoost late fusion | `F1 99.53%, mAP 95.62%` |
-| 🎯 [Datathon 2025](https://github.com/tursuntalha/Datathon2025) | BTK Akademi: session-value prediction from user behavior (LightGBM) + FastAPI service, SHAP, drift detection | `Regression (RMSE)` |
+| 🎯 [BTK Datathon 2025](https://github.com/tursuntalha/BTK-Datathon-2025-solution) | BTK Akademi: kullanıcı davranış loglarından oturum (session) değeri tahmini — 4 katmanlı özellik mühendisliği + LightGBM + zaman-bazlı çapraz doğrulama | `Regression (RMSE)` |
 | 📦 [Haier Datathon](https://github.com/tursuntalha/Haier_Datathon) | Monthly demand forecasting with product-lifecycle-aware features (EOL urgency, life progress) | `Public 0.96214` |
 
 ---
