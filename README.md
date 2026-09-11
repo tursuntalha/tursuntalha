@@ -14,12 +14,12 @@
 
 ### 👋 About
 
-- 🧹 **Uçtan uca veri bilimi** — veri temizleme, keşifçi veri analizi (EDA), özellik mühendisliği, model geliştirme/doğrulama ve üretime alma sürecinin tamamıyla ilgileniyorum.
-- 🖼️ **Görüntü işleme** — klasik bilgisayarlı görü tekniklerinden derin öğrenme tabanlı nesne tespiti, segmentasyon ve sınıflandırma modellerine kadar görsel veriyle çalışıyorum.
-- 🧠 **Büyük dil modelleri (LLM)** — model ince ayarı (fine-tuning), prompt mühendisliği, retrieval-augmented generation (RAG) ve semantik arama sistemleri üzerine çalışıyorum.
-- ✨ **Üretken yapay zeka** — metin, görüntü ve çok-modlu üretken modelleri araştırıyor, ajan tabanlı (agentic) ve araç kullanan (tool-use) sistemler geliştiriyorum.
-- 📈 **Sağlam doğrulama** — leaderboard kovalamaktan çok, veri sızıntısız (leakage-free) ve tekrarlanabilir deney kurgusu önceliğim.
-- 🏁 Kaggle yarışmalarında ve datathonlarda aktif olarak yer alıyorum.
+* 🧹 **End-to-end data science** — I work across the entire data science lifecycle, including data cleaning, exploratory data analysis (EDA), feature engineering, model development and validation, and deployment.
+* 🖼️ **Computer vision** — I work with visual data, ranging from classical computer vision techniques to deep learning-based object detection, segmentation, and classification models.
+* 🧠 **Large language models (LLMs)** — I work on fine-tuning, prompt engineering, retrieval-augmented generation (RAG), and semantic search systems.
+* ✨ **Generative AI** — I research text, image, and multimodal generative models while developing agentic and tool-using systems.
+* 📈 **Robust validation** — Rather than chasing leaderboards, I prioritize leakage-free and reproducible experimental setups.
+* 🏁 I actively participate in Kaggle competitions and datathons.
 
 ---
 
